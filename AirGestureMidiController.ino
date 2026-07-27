@@ -1,7 +1,7 @@
 /*
   Air-Gesture MIDI Controller
   Unique Hack Club Project
-  Author: Ars 😎
+  Author: Ars (√2:1@)
 */
 
 #include <MIDIUSB.h>
