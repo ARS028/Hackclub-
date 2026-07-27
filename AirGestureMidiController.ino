@@ -50,7 +50,7 @@ void sendPitchBend(int value) {
   MidiUSB.flush();
 }
 
-// ========== SETUP ==========
+// ==========[ SETUP ]==========
 void setup() {
   pinMode(TRIG_PIN, OUTPUT);
   pinMode(ECHO_PIN, INPUT);
