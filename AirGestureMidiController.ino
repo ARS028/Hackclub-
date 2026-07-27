@@ -60,7 +60,7 @@ void setup() {
   }
 }
 
-// ========== LOOP ==========
+// ========== LOOP |==========
 void loop() {
   // 🎚 Velocity Control
   int potVal = analogRead(POT_PIN);
