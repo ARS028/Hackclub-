@@ -79,7 +79,7 @@ void loop() {
     }
   }
 
-  // ✋ Air Pitch Control
+  // ✋ Air Pitch Control &other things 
   long distance = getDistance();
   if (distance > 5 && distance < 40) {
     int pitch = map(distance, 5, 40, -8192, 8191);
